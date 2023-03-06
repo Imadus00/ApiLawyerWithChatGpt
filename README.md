@@ -1,5 +1,7 @@
 # Lawyer  API with chatGpt
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.business2community.com%2Ffr%2Factu%2Fchatgpt-api-disponible&psig=AOvVaw0cSsd0CoBX8wV1xGeUqcA1&ust=1678208672226000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjIg9Dkx_0CFQAAAAAdAAAAABAE
+
 The Contract Question API is a C# program that uses the OpenAI API to answer questions related to a contract. The program allows users to upload a contract in PDF format and ask questions about its clauses. The program then extracts the text from the contract using the `ExtractTextFromPdf` method and sends the question and contract text to the OpenAI API using the `SendChatGPTRequest3` method. The API generates a response as if it were a legal expert, indicating whether certain clauses of the contract are legal or not. The response is then returned to the user as a string.
 
 ## Getting Started
