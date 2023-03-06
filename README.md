@@ -1,4 +1,4 @@
-# Lawyer  API with chatGpt
+# Lawyer  API with ChatGpt
 
 ![image](https://user-images.githubusercontent.com/122009354/223180581-c5073c88-dc78-4f21-b171-2add18a192a8.png)
 
